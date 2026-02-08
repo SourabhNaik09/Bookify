@@ -1,0 +1,28 @@
+/* ===== Global Reset ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ===== Base Styling ===== */
+body {
+  background: linear-gradient(135deg, #f5f7fb, #eef1ff);
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  color: #1f2937;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-weight: 600;
+}
+
+/* Containers */
+.container {
+  max-width: 1100px;
+}
+
+/* Utility */
+.text-center {
+  text-align: center;
+}
